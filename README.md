@@ -10,7 +10,7 @@ This methodology was specifically developed and applied to stress-test the Franc
 ## Tech Stack
 * **Python:** Core automation, file parsing, and subprocess management.
 * **Iber (v3.4):** 2D hydrodynamic numerical solver.
-* **QGIS:** Post-processing and spatial vulnerability analysis (Raster map algebra).
+* **QGIS:** Post-processing and spatial vulnerability analysis (Raster map algebra) //does not take part in the code//.
 
 ## Key Features
 * **Automated Parameter Modification:** Dynamically edits Iber's core configuration files (`Iber2D.dat`, `Iber_Breach.dat`) to adjust Manning's roughness coefficients, inflow hydrographs, and structural breach timings.
